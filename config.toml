@@ -1,0 +1,5 @@
+# Tema claro fijo: los gráficos usan fondo blanco, así la app se ve
+# igual aunque el navegador del espectador esté en modo oscuro.
+[theme]
+base = "light"
+primaryColor = "#1D9E75"

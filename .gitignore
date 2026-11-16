@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Secretos de Streamlit (nunca se suben)
+.streamlit/secrets.toml
+
+# Sistema operativo / editor
+.DS_Store
+.vscode/
+.idea/
